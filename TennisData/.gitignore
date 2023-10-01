@@ -1,0 +1,14 @@
+# Ignore all .csv files
+*.csv
+
+# Ignore all .xlsm files
+*.xlsm
+
+# Ignore all .zip files
+*.zip
+
+# Ignore the virtual environment folder
+.venv/
+
+# Ignore all .sqlite files
+*.sqlite
