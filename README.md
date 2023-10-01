@@ -1,4 +1,4 @@
-# Michael Rice's Data Portfolio
+# Mike Rice's Data Portfolio
 
 ## Introduction
 
