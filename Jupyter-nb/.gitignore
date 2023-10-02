@@ -1,14 +1,57 @@
-# Ignore all .csv files
-*.csv
+# Jupyter Notebook
+.ipynb_checkpoints/
 
-# Ignore all .xlsm files
-*.xlsm
+# Python files
+__pycache__/
+*.py[cod]
+*.so
 
-# Ignore all .zip files
-*.zip
+# Virtual environment
+venv/
+myenv/
 
-# Ignore the virtual environment folder
-.venv/
+# IDEs artifacts
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+*.suo
+*.user
+*.bak
 
-# Ignore all .sqlite files
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Database
 *.sqlite
+
+# Compiled Files
+*.pyc
+*.pyo
+*.exe
+*.dll
+
+# Other
+*.pid
+*.retry
+tmp/
+
+# Office Files (uncomment if you don't want to track Office files)
+*.csv
+*.xlsm
+*.pdf
+*.pbix
+
