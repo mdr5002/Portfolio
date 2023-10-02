@@ -4,9 +4,9 @@ This folder contains power bi files that were completed and compiled as a Dashbo
 
 ---
 
-![Dashboard](image.png)
+![Dashboard 1](Dashboard1.png)
 
-![Dashboard2](image-1.png)
+![Dashboard 2](Dashboard2.png)
 
 ---
 
@@ -14,4 +14,4 @@ This folder contains power bi files that were completed and compiled as a Dashbo
 
 [Tableau Public Project](https://public.tableau.com/views/CovidData_16932555880140/CovidVacRates?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-![Tableau](<Covid Vac Rates.png>)
+![Tableau](tableau.png)

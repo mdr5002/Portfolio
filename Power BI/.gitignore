@@ -52,5 +52,5 @@ tmp/
 # Office Files (uncomment if you don't want to track Office files)
 *.csv
 *.xlsm
-*.pdf
+#*.pdf
 *.pbix
