@@ -16,11 +16,22 @@ Hello! I'm Mike, with a career mostily in accounting and finance I am using this
 Each project or script is stored in its own directory. A brief description of each project can be found in its corresponding README file.
 
 #### 🎾**Tennis Dataset Analysis notebook**🎾
- - https://nbviewer.org/github/mdr5002/Portfolio/blob/main/TennisData/TennisData.ipynb
+
+- https://nbviewer.org/github/mdr5002/Portfolio/blob/main/TennisData/TennisData.ipynb
+
+I also created a Python web app with Streamlit
+
+# Streamlit Web App
+
+Created using motor vehicle collision data from Kaggle and tutorial on Coursea. An interactive web application with dynamic sliders and data filters. The output images are below and the project is located in my Python_web folder
+
+![web1](Python_web/png/web1.png)
+
+![web2](Python_web/png/web2.png)
 
 ## Contact
 
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/michael-rice-24704953/)
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/michael-rice-24704953/) or email mrice0012@gmail.com
 
 ## License
 
