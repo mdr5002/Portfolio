@@ -1,9 +1,6 @@
 # Ignore all .csv files
 *.csv
 
-# Ignore all .xlsm files
-*.xlsm
-
 # Ignore all .zip files
 *.zip
 
