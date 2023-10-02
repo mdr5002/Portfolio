@@ -33,3 +33,4 @@ config.yaml
 #office file
 *.pbix
 *.xlsm
+Python_web/
