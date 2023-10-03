@@ -9,3 +9,5 @@
 
 # Ignore all .sqlite files
 *.sqlite
+
+*.xlsm

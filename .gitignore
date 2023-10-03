@@ -34,3 +34,5 @@ config.yaml
 *.pbix
 *.xlsm
 Python_web/
+*.xlsm
+Excel/Customer Aging Report.xlsm

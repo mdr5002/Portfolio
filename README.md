@@ -15,19 +15,39 @@ Hello! I'm Mike, with a career mostily in accounting and finance I am using this
 
 Each project or script is stored in its own directory. A brief description of each project can be found in its corresponding README file.
 
+Below is a peek at what's inside the folders:
+
+## Advanced Excel Formulas
+
+![excel](img/excel.png)
+
+## Data Analysis with Jupyter Notebooks
+
 #### 🎾**Tennis Dataset Analysis notebook**🎾
 
 - https://nbviewer.org/github/mdr5002/Portfolio/blob/main/TennisData/TennisData.ipynb
 
-I also created a Python web app with Streamlit
+#### 🚗⛽**Miles per gallon Anaysis notebook**
+
+- https://nbviewer.org/github/mdr5002/Portfolio/blob/main/Jupyter-nb/mpg-exp.ipynb
+
+## A SQL project with queries and sample output
+
+![SQL](img/sql.png)
+
+## Power BI Dashboards
+
+![BI-dash](<Power BI/img/Dashboard1.png>)
+
+I've also created a Python web app with Streamlit
 
 # Streamlit Web App
 
 Created using motor vehicle collision data from Kaggle and tutorial on Coursea. An interactive web application with dynamic sliders and data filters. The output images are below and the project is located in my Python_web folder
 
-![web1](Python_web/png/web1.png)
+![Web1](img/web1.png)
 
-![web2](Python_web/png/web2.png)
+![Web2](img/web2.png)
 
 ## Contact
 
