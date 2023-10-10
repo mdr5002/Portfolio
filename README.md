@@ -25,7 +25,7 @@ Below is a peek at what's inside the folders:
 
 #### 🎾**Tennis Dataset Analysis notebook**🎾
 
-- https://nbviewer.org/github/mdr5002/Portfolio/blob/main/TennisData/TennisData.ipynb
+- [https://nbviewer.org/github/mdr5002/Portfolio/blob/main/TennisData/TennisData.ipynb](https://nbviewer.org/github/mdr5002/Portfolio/blob/main/Jupyter-nb/TennisData.ipynb)
 
 #### 🚗⛽**Miles per gallon Anaysis notebook**
 
