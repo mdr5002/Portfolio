@@ -17,19 +17,19 @@ Each project or script is stored in its own directory. A brief description of ea
 
 Below is a peek at what's inside the folders:
 
-## Advanced Excel Formulas
+# Advanced Excel Formulas
 
 ![excel](img/excel.png)
 
-## Data Analysis with Jupyter Notebooks
+# Data Analysis with Jupyter Notebooks
 
-#### 🎾**Tennis Dataset Analysis notebook**🎾
+## 🎾**Tennis Dataset Analysis notebook**🎾
 
-- [https://nbviewer.org/github/mdr5002/Portfolio/blob/main/TennisData/TennisData.ipynb](https://nbviewer.org/github/mdr5002/Portfolio/blob/main/Jupyter-nb/TennisData.ipynb)
+**- [https://nbviewer.org/github/mdr5002/Portfolio/blob/main/TennisData/TennisData.ipynb](https://nbviewer.org/github/mdr5002/Portfolio/blob/main/Jupyter-nb/TennisData.ipynb)**
 
-#### 🚗⛽**Miles per gallon Anaysis notebook**
+## 🚗⛽**Miles per gallon Anaysis notebook**
 
-- https://nbviewer.org/github/mdr5002/Portfolio/blob/main/Jupyter-nb/mpg-exp.ipynb
+**- https://nbviewer.org/github/mdr5002/Portfolio/blob/main/Jupyter-nb/mpg-exp.ipynb**
 
 ## A SQL project with queries and sample output
 
